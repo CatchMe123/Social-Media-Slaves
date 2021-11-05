@@ -1,0 +1,32 @@
+[
+  {
+    "id": 55001011877,
+    "brand": "ყლე",
+    "name": "ომარ ჩიტაშვილი",
+    "category": "Youtube",
+    "city": "თბილისი",
+    "verification": "true",
+    "address": "თბილისი/გლდანი/8-მიკრო/კორპ-13/სართ-1/ბინა-15",
+    "photolink": "https://bit.ly/f131f"
+  },
+  {
+    "id": 55001011657,
+    "brand": "ყლე",
+    "name": "გრიგალა",
+    "category": "Youtube",
+    "city": "თბილისი",
+    "verification": "",
+    "address": "თბილისი/სამტრედიის/N8",
+    "photolink": "https://bit.ly/fwafda"
+  },
+  {
+    "id": 55001011678,
+    "brand": "მუტელი",
+    "name": "ზიპერი ზიპერი",
+    "category": "TikTok",
+    "city": "ბათუმი",
+    "verification": true,
+    "address": "ბათუმი/ლერმონტოვის/N13/კორპ-15/სართ-2/ბინა-20",
+    "photolink": "https://bit.ly/f1f2aw"
+  }
+  ]
